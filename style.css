@@ -1,12 +1,17 @@
 html, body {
 	font-family: 'Cinzel Decorative', cursive;
+	background: #F2F2F2;
+	text-align: center;
 }
 .heading {
-	text-align: center;
-	color: #6B8200;
+	color: #6B8200; /*green heading*/
+}
+.keys {
+	color: #F91933; /*red button*/
+	font-size: 2em;
 }
 .mycell {
-	background-color: #E89C84;
+	background-color: #FFF;
 	width: 20px;
 	height: 20px;
 	float: left;
